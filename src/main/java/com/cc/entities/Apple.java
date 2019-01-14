@@ -1,7 +1,7 @@
 package com.cc.entities;
 
 public class Apple {
-	private	String appName="good apple eighth !!!!";
+	private	String appName="good apple eighth ok!!!!";
 	
 	public String getAppName() {
                                 System.out.println("Hello World");
