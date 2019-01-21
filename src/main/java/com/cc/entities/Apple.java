@@ -1,10 +1,10 @@
 package com.cc.entities;
 
 public class Apple {
-	private	String appName="good apple name";
+	private	String appName="good apple names";
 	
 	public String getAppName() {
-                                System.out.println("Hello World22");
+                                System.out.println("Hello World2");
 		return appName;
 	}
 }
